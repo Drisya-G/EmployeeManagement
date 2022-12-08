@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "firstname": "Drisya",
+      "lastname": "G",
+      "birthdate": "2001-04-26",
+      "gender": "f",
+      "education": "graduate",
+      "company": "TCS",
+      "jobExperience": 1,
+      "salary": 6,
+      "profile": "drisya.jpeg",
+      "id": 1
+    },
+    {
+      "firstname": "Sriya",
+      "lastname": "S",
+      "birthdate": "2002-01-05",
+      "gender": "f",
+      "education": "graduate",
+      "company": "IBM",
+      "jobExperience": 8,
+      "salary": 7,
+      "profile": "Sriya.jpg",
+      "id": 3
+    },
+    {
+      "firstname": "Nandini",
+      "lastname": "M",
+      "birthdate": "2002-06-19",
+      "gender": "f",
+      "education": "graduate",
+      "company": "WIPRO",
+      "jobExperience": 3,
+      "salary": 5,
+      "profile": "Nandini.jpg",
+      "id": 4
+    },
+    {
+      "firstname": "Athira",
+      "lastname": "H",
+      "birthdate": "2002-01-07",
+      "gender": "",
+      "education": "graduate",
+      "company": "TCS",
+      "jobExperience": 5,
+      "salary": 15,
+      "profile": "Athira.jpg",
+      "id": 6
+    },
+    {
+      "firstname": "Soja",
+      "lastname": "K",
+      "birthdate": "2001-03-16",
+      "gender": "f",
+      "education": "graduate",
+      "company": "Hexaware",
+      "jobExperience": 8,
+      "salary": 12,
+      "profile": "soja.jpg",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

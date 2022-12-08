@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "8ade213e-8ab1-4c3b-8e9d-9a59bbab06dc",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:3000/posts",
+    "url": "http://localhost:3000/posts",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2022-12-08T09:02:00.096Z",
+    "modified": "2022-12-08T09:02:00.096Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
